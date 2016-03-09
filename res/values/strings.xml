@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GH Issue Tracker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="login_header">GitHub Issue Tracker</string>
+	<string name="username_text">Enter your username</string>
+	<string name="password_text">Enter your password</string>
+	<string name="login_text">Fetch Public Repositories</string>
+	<string name="fetching_repos">Fetching Repositories</string>
+	<string name="fetching_Issues">Checking for Issues</string>
+</resources>
